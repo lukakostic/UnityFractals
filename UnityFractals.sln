@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityFractals", "Assembly-CSharp.csproj", "{E249CADE-8AD2-B7C2-1CA9-1D4F9949929D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E249CADE-8AD2-B7C2-1CA9-1D4F9949929D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E249CADE-8AD2-B7C2-1CA9-1D4F9949929D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E249CADE-8AD2-B7C2-1CA9-1D4F9949929D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E249CADE-8AD2-B7C2-1CA9-1D4F9949929D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
